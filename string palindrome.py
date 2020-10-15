@@ -1,4 +1,4 @@
-#check for string palindrome
+#program to check check for string palindrome
 
 #take user input
 S1 = input('Enter the String :')
